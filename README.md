@@ -1,0 +1,1 @@
+# whop-gateway-app-shopify
